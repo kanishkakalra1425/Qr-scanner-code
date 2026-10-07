@@ -2,10 +2,6 @@
 
 A responsive QR code component built as a solution to the **Frontend Mentor QR Code Component challenge**.
 
-## 📸 Preview
-
-![QR Code Component Preview](./images/preview.jpg)
-
 ## 🛠️ Built With
 
 * HTML5
